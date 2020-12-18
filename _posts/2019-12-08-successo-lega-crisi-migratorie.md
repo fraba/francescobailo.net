@@ -1,7 +1,6 @@
 ---
 title: "Il successo della Lega, i media e le “crisi” migratorie"
 date: "2019-12-08"
-permalink: /2019/12/successo-lega-crisi-migratorie/
 ---
 
 La crescita di Salvini e della Lega è forse per la politica italiana l’evento più significativo del 2018. Nel gennaio 2018, prima delle elezioni di marzo, la Lega di Salvini era intorno al 12-13%. Alla fine del 2018 la Lega era stimata sopra al 30%. Un guadagno di quasi 20 punti percentuali in 12 mesi.
